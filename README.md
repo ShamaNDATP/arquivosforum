@@ -1,2 +1,0 @@
-# arquivosforum
-GitHub Pages
